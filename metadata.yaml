@@ -1,0 +1,57 @@
+_repo: Lehtisia-mietekirjastani_60049
+_version: 0.0.1
+alternative_title: Blad ur min tänkebok. Finnish
+contributor:
+  translator:
+    agent_name: Aho, Juhani
+    aliases:
+    - Aho, Johani
+    - Brofeldt, Juhani
+    birthdate: 1861
+    deathdate: 1921
+    gutenberg_agent_id: '1773'
+    url: http://www.gutenberg.org/2009/agents/1773
+    wikipedia:
+    - http://fi.wikipedia.org/wiki/Juhani_Aho
+    - http://en.wikipedia.org/wiki/Juhani_Aho
+creator:
+  author:
+    agent_name: Topelius, Zacharias
+    aliases:
+    - Topelius, Sakarias
+    - Topelius, Zakarias
+    - Topelius, Zakris
+    - Topelius, Zachris
+    birthdate: 1818
+    deathdate: 1898
+    gutenberg_agent_id: '6545'
+    url: http://www.gutenberg.org/2009/agents/6545
+    wikipedia:
+    - https://sv.wikipedia.org/wiki/Zacharias_Topelius
+    - https://fi.wikipedia.org/wiki/Zacharias_Topelius
+    - https://en.wikipedia.org/wiki/Zachris_Topelius
+description: ''
+gutenberg_issued: '2019-08-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60049'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Essays'
+- !lcsh 'Christian life'
+- GITenberg
+tableOfContents: Ulosantajain esipuhe -- Kuinka ajatukset kuihtuvat -- Uskoni -- Usko
+  ja tieto -- Kuolemattomuus -- Iankaikkinen elämä -- Synti, armo ja omatunto -- Paha
+  -- Kaikki-yhteisyys -- Sallimus -- Ihmeteot -- Enkelit -- Tuhatvuotinen valtakunta
+  -- Tuomio ja maailman loppu -- Maanpallo maailman-kaikkeudessa -- Ihminen maailman-kaikkeudessa
+  -- Valo -- Elämä -- Suku ja yksilö -- Minä -- Lapsi -- Nuoruus -- Elämän kesä ja
+  syksy -- Rakkaus -- Koti -- Koulu -- Kansa ja isänmaa -- Kirkko -- Saarnamies --
+  Opettaja -- Painetun sanan edesvastaus -- Sanomalehdistö -- Puolueet -- Raha --
+  Työ -- Ajatus -- Suuruus -- Unhotetut -- Muistopatsaat -- Maine -- Kirja -- Määräperäisyys
+  maailman historiassa -- Perusviivat.
+title: Lehtisiä mietekirjastani
+url: http://www.gutenberg.org/ebooks/60049
