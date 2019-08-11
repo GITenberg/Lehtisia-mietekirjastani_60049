@@ -1,5 +1,5 @@
 _repo: Lehtisia-mietekirjastani_60049
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: Blad ur min tänkebok. Finnish
 contributor:
   translator:
@@ -14,6 +14,9 @@ contributor:
     wikipedia:
     - http://fi.wikipedia.org/wiki/Juhani_Aho
     - http://en.wikipedia.org/wiki/Juhani_Aho
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Topelius, Zacharias
@@ -31,6 +34,8 @@ creator:
     - https://fi.wikipedia.org/wiki/Zacharias_Topelius
     - https://en.wikipedia.org/wiki/Zachris_Topelius
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60049#Lehtisia-mietekirjastani
 gutenberg_issued: '2019-08-03'
 gutenberg_type: Text
 identifiers:
